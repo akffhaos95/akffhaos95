@@ -13,12 +13,12 @@ HowMuchPay
 Android, RecyclerView
 <hr>
 <h3>HotPlayer<h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
-Chart.js
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=Folium&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Chart.js-AA344D?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 <hr>
 Mushroom
 Flask, Pickle, Sklearn
