@@ -3,6 +3,7 @@
 
 
 [![akffhaos95's GitHub stats](https://github-readme-stats.vercel.app/api?username=akffhaos95)](https://github.com/akffhaos95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akffhaos95)](https://github.com/akffhaos95/github-readme-stats)
 <!--
 **akffhaos95/akffhaos95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
