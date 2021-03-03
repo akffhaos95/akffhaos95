@@ -12,12 +12,12 @@ HowMuchPay
 더치페이
 Android, RecyclerView
 
-HotPlayer
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<h3>HotPlayer<h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> 
 Chart.js
 
 Mushroom
