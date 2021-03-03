@@ -13,7 +13,12 @@ HowMuchPay
 Android, RecyclerView
 
 HotPlayer
-Flask, Chart.js, Pandas, Numpy, Folium
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+Chart.js
 
 Mushroom
 Flask, Pickle, Sklearn
